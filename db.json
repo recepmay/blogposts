@@ -4,35 +4,35 @@
         "id": 1,
         "date": "September 10, 2019",
         "categories" : ["travel", "slovakia", "lake", "nature"],
-        "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+        "title": "Incredible Bled",
         "content": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
     },
     {
         "id": 2,
-        "date": "September 10, 2019",
-        "categories" : ["travel", "slovakia", "lake", "nature"],
-        "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+        "date": "August 5, 2019",
+        "categories" : ["croatia", "travel", "zagreb", "city"],
+        "title": "Weekend Trip to Croatia",
         "content": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
     },
     {
         "id": 3,
-        "date": "September 10, 2019",
-        "categories" : ["travel", "slovakia", "lake", "nature"],
-        "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+        "date": "June 22, 2019",
+        "categories" : ["travel", "bulgaria", "church", "nature"],
+        "title": "Things to do in Bulgaria",
         "content": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
     },
     {
         "id": 4,
-        "date": "September 10, 2019",
-        "categories" : ["travel", "slovakia", "lake", "nature"],
-        "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+        "date": "April 17, 2019",
+        "categories" : ["travel", "georgia", "food", "sea"],
+        "title": "Recomendations for Georgia",
         "content": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
     },
     {
         "id": 5,
-        "date": "September 10, 2019",
-        "categories" : ["travel", "slovakia", "lake", "nature"],
-        "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+        "date": "January 21, 2019",
+        "categories" : ["travel", "greece", "island", "beach"],
+        "title": "Best of Greece",
         "content": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
     }
 ]
